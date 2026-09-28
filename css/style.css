@@ -1,0 +1,34 @@
+h1{
+color :#FF0000;
+font-size: 23px;
+font-family:Verdana,sans-serif;
+}
+h2{
+    color:#00FF00;
+}
+h3{
+    color: #0000FF;
+}
+.td1{
+    background-color:#F4F6F8
+}
+.td2{
+    background-color:#EBF2FA
+}
+.td3{
+    background-color:#69A2B0
+}
+.xp{
+    font-size: 30px;
+}
+a {
+    color:#1F4E79;
+    font-weight: bold;
+    font-size: 23px;
+    
+}
+#txt_bleu{
+    color:#1F4E79;
+    font-weight: bold;
+    font-size: 23px; 
+}
